@@ -4,8 +4,8 @@
 
 * GitHub account created
 * Local Repositorium created
-* Connect local and remote repositorium
-* Push changes on remote
-* Pull changes on local
+* Connected local and remote repositorium
+* Pushed changes on remote
+* Pulled changes on local
 
 _All Done_ 
